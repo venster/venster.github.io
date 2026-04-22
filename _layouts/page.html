@@ -1,0 +1,18 @@
+---
+layout: default
+---
+<div class="container" role="main">
+  <div class="row">
+    <div class="col-lg-3 col-md-4">
+      <div class="sidebar">
+        <img src="{{ site.avatar | relative_url }}" class="img-fluid rounded-circle" alt="Avatar">
+        <h3>{{ site.author }}</h3>
+        <p>{{ site.description }}</p>
+      </div>
+    </div>
+
+    <div class="col-lg-9 col-md-8">
+      {{ content }}
+    </div>
+  </div>
+</div>

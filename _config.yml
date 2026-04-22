@@ -28,10 +28,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  venster
 
 # Build settings
-# theme: minima
-remote_theme: pages-themes/architect@v0.2.0
+theme: beautiful-jekyll-theme
 plugins:
-  - jekyll-remote-theme
   - jekyll-feed
 
 # Exclude from processing.
@@ -53,3 +51,13 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+navbar-links:
+  About Me: "about"
+  # Resources:
+  #   - Beautiful Jekyll: "https://beautifuljekyll.com"
+  #   - Learn Markdown: "https://www.markdownguide.org"
+  LinkedIn: "https://www.linkedin.com/in/voashley"
+
+avatar:  "/assets/img/thumb.png"
+github_username: venster
