@@ -21,7 +21,8 @@
 title: Ashley's dev blog
 email: ashextra73@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  My personal dev blog to keep myself accountable on what I've done to learn new tech
+  My personal dev blog to keep myself accountable on what I've done to learn new tech. 
+  ~ Still Under Construction ~
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
